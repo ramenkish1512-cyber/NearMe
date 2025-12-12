@@ -199,7 +199,9 @@ Rockfort.html
 
 <img width="1011" height="493" alt="3" src="https://github.com/user-attachments/assets/9cdd9a4a-a40a-4deb-9ea8-13affd8bb863" />
 
+<img width="1002" height="491" alt="4" src="https://github.com/user-attachments/assets/0529e894-38a1-4459-91fe-818cacc95e05" />
 
+<img width="1003" height="498" alt="5" src="https://github.com/user-attachments/assets/71787747-3921-479d-ad24-8f65b15b8182" />
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
