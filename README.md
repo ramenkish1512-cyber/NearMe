@@ -38,7 +38,7 @@ map.html
 <font color="red"><b>Dindigul</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>Jenoviya D (25014196)</b></font>
+<font color="blue"><b>Ramen kishore(25018612)</b></font>
 </h3>
 <center>
 <img src="map.png" usemap="#image-map">
